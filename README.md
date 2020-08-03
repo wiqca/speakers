@@ -1,4 +1,4 @@
-# WIQCA Speaker Reasources
+# WIQCA Speaker Resources
 Resources for speakers that present at WIQCA events.
 
 ## What kind of talks are accepted for WIQCA events?
