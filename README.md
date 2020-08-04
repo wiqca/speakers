@@ -35,6 +35,8 @@ The WIQCA team will follow-up with you to find a good date and time for the talk
 
 About one week out from the talk, the WIQCA team will check in with the speaker to see if there are any questions or issues that have arisen.
 As a part of that check in, we will do a tech check to make sure that all of the streaming and screensharing will work properly for the big day!
+We currently are using Teams to host our talks, which you should be able to use from either a free desktop app or directly in your browser.
+We will test the Teams connection, audio, video, and any demos you might want to do to make sure everyone will be able to see what awesome stuff you are showing!
 
 ### The day of:
 
