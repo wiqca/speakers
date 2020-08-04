@@ -6,6 +6,7 @@ Currently, we have two regular talk series:
 
 - **Quantum 101**: talks that are aimed at a general audience (generally technical folks, but no quantum specific expertise).
 - **Research Seminars**: more technical, research focused talks with an aim of late undergrad level expertise, but is flexable given the topic.
+
 Talk slots for both catagories are usually 45 min long, but can be adjusted as needed.
 
 You can see examples of both kinds of talks on our [YouTube channel](https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw).
