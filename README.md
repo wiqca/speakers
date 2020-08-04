@@ -10,6 +10,7 @@ Currently, we have two regular talk series:
 Talk slots for both catagories are usually 45 min long, but can be adjusted as needed.
 
 You can see examples of both kinds of talks on our [YouTube channel](https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw).
+We are building up the video catalog now, most of our initial events were not recorded as they were in person 😅
 
 As a reminder, all WIQCA talks are goverened by our [Code of Conduct](https://www.wiqca.dev/code-of-conduct.html).
 Help us make this an inclusive event by familiarizing yourself with the Code of Conduct, and by ensuring that your talk is appropriate for this venue before submitting.
@@ -53,7 +54,7 @@ After talks, we usually have a few minutes for any additional questions as well 
 
 ### After the talk:
 
-All WIQCA talks will be recorded and uploaded to our YouTube channel, primarily for folks that are in different timezones.
+All WIQCA talks will be recorded and uploaded to our [YouTube channel](https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw), primarily for folks that are in different timezones.
 If you want to preview the video before we upload, let us know!
 
 ## Other questions/concerns/comments?
