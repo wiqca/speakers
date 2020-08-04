@@ -8,6 +8,7 @@ Currently, we have two regular talk series:
 - **Research Seminars**: more technical, research focused talks with an aim of late undergrad level expertise, but is flexable given the topic.
 
 Talk slots for both catagories are usually 45 min long, but can be adjusted as needed.
+We generally try to record all of our talks so that folks in other timezones can enjoy, but upon request of the speaker we can skip that, no problem!
 
 You can see examples of both kinds of talks on our [YouTube channel](https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw).
 We are building up the video catalog now, most of our initial events were not recorded as they were in person 😅
@@ -55,8 +56,7 @@ We can either collect questions for the end or help the chat by inturrupting whe
 After talks, we usually have a few minutes for any additional questions as well as time for you the speaker to promotote what _you_ are excited about!
 
 ### After the talk:
-
-All WIQCA talks will be recorded and uploaded to our [YouTube channel](https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw), primarily for folks that are in different timezones.
+Unless the speaker opts out, all WIQCA talks will be recorded and uploaded to our [YouTube channel](https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw), primarily for folks that are in different timezones.
 If you want to preview the video before we upload, let us know!
 
 ## Other questions/concerns/comments?
