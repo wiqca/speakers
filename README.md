@@ -4,7 +4,7 @@ Resources for speakers that present at WIQCA events.
 ## What kind of talks are accepted for WIQCA events?
 Currently, we have two regular talk series:
 1. Quantum 101: talks that are aimed at a general audience (generally technical folks, but no quantum specific expertise).
-2. Research Chats: more technical, research focused talks with an aim of late undergrad level experties.
+2. Research Seminars: more technical, research focused talks with an aim of late undergrad level experties, but is flexable given the topic.
 Talk slots for both catagories are usually 45 min long, but can be adjusted as needed.
 
 Talks will 
