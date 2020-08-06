@@ -1,5 +1,5 @@
 # WIQCA Speaker Resources
-Resources for speakers interested in presenting at WIQCA events ✨🔮
+Resources for speakers interested in presenting at [WIQCA](https://www.wiqca.dev/) events ✨🔮
 
 ## What kind of talks are accepted for WIQCA events?
 Currently, we have two regular talk series:
